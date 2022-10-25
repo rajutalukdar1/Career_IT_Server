@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "name": "JavaScript",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYfbaJ3eCkft5cB1BjSSN8pwLqODTGLTqOXQyIUhvWQSVSPgyG6bI5iH4S3mCVPdIV7w&usqp=CAU"
+    },
+    {
+        "id": "02",
+        "name": "React.js",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2Y2gmQB5zuaBd1AfN_AyEgoTgxPF65i7GwlvrbnnP_RUlubieG19WFnonCtS4ZfAox4&usqp=CAU"
+    },
+    {
+        "id": "03",
+        "name": "Node.js",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9WrdC46xULvIRCrlZ0y-mqV3F4a_IJRmuWbEw7f4TmN3zwaNxt45Z8TDB9Eczj0uDPNo&usqp=CAU"
+    },
+    {
+        "id": "04",
+        "name": "java",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbk6-cfNgAGDMOQpWDx_m0yWbDC0xXqY201Q&usqp=CAU"
+    },
+    {
+        "id": "05",
+        "name": "Python",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9w1pP1KmKFUB3_sFLuLROakUAnlQ9zAufF_mZxxuik-5x5MKkYPQE5ofF8ma99Ztx3jw&usqp=CAU"
+    },
+    {
+        "id": "06",
+        "name": "PHP",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ-tBhdhLVkf7KdkG_980DBu0bndbvbYE5gA&usqp=CAU"
+    }
+]
